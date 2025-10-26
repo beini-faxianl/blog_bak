@@ -1,0 +1,13 @@
+- class_name: 学术圈
+  class_desc: 做研究也写博客
+  link_list:
+    - name: Alice
+      link: https://example.io
+      avatar: https://alice.dev/avatar.jpg
+      descr: FL / 区块链
+- class_name: CTF 圈
+  link_list:
+    - name: Bob
+      link: https://example.io
+      avatar: https://bob.io/a.png
+      descr: Pwn / Crypto
