@@ -1,8 +1,12 @@
 ---
 title: 相册
-photos:
-  - /images/album/01.jpg
-  - /images/album/02.jpg
 gallery: true
 comments: false
 ---
+
+## 2025-10-26
+
+{% gallery %}
+![](/img/1.png)
+![](/img/2.png)
+{% endgallery %}
